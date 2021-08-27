@@ -1,6 +1,0 @@
-app:
-  datasource:
-    jdbc-url: jdbc:postgresql://localhost:5432/bootrepo
-    username: postgres
-    password: madeye1028Kong
-    pool-size: 30
